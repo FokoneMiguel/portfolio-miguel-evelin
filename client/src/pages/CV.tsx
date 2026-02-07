@@ -34,7 +34,11 @@ export default function CV() {
                 asChild
                 className="bg-primary text-primary-foreground hover:bg-primary/90 transition-all duration-200 group"
               >
-                <a href="#" className="flex items-center gap-2">
+                <a
+                  href="/cv.pdf"
+                  download="CV-Miguel-Evelin.pdf"
+                  className="flex items-center gap-2"
+                >
                   <Download className="w-4 h-4" />
                   Télécharger le CV (PDF)
                   <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
@@ -52,7 +56,9 @@ export default function CV() {
           <div className="container max-w-4xl">
             {/* Header */}
             <div className="mb-12 pb-12 border-b border-border">
-              <h2 className="font-display text-foreground mb-2">\n                TSODZO FOKONE MIGUEL EVELIN\n              </h2>
+              <h2 className="font-display text-foreground mb-2">
+                TSODZO FOKONE MIGUEL EVELIN
+              </h2>
               <p className="text-lg text-primary font-semibold mb-4">
                 Développeur Web & Infographiste
               </p>
