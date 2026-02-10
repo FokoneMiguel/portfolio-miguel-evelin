@@ -156,10 +156,10 @@ export default function Contact() {
                           Email
                         </h3>
                         <a
-                          href="mailto:contact@example.com"
+                          href="mailto:miguelfokone@gmail.com"
                           className="text-primary hover:underline transition-colors duration-200"
                         >
-                          contact@example.com
+                          miguelfokone@gmail.com
                         </a>
                         <p className="text-muted-foreground text-sm mt-2">
                           Réponse généralement dans les 24 heures
@@ -179,14 +179,16 @@ export default function Contact() {
                           LinkedIn
                         </h3>
                         <a
-                          href="https://linkedin.com"
+                          href="https://www.linkedin.com/in/miguel-fokone-619b772a7"
                           target="_blank"
                           rel="noopener noreferrer"
                           className="text-primary hover:underline transition-colors duration-200"
                         >
                           Visitez mon profil
                         </a>
-                        <p className="text-muted-foreground text-sm mt-2">\n                          Connectez-moi pour des opportunités professionnelles\n                        </p>
+                        <p className="text-muted-foreground text-sm mt-2">
+                          Connectez-moi pour des opportunités professionnelles
+                        </p>
                       </div>
                     </div>
                   </div>
@@ -202,7 +204,7 @@ export default function Contact() {
                           GitHub
                         </h3>
                         <a
-                          href="https://github.com"
+                          href="https://github.com/FokoneMiguel"
                           target="_blank"
                           rel="noopener noreferrer"
                           className="text-primary hover:underline transition-colors duration-200"

@@ -66,32 +66,32 @@ export default function CV() {
                 <div>
                   <p className="font-semibold text-foreground mb-1">Email</p>
                   <a
-                    href="mailto:contact@example.com"
+                    href="mailto:miguelfokone@gmail.com"
                     className="hover:text-primary transition-colors"
                   >
-                    contact@example.com
+                    miguelfokone@gmail.com
                   </a>
                 </div>
                 <div>
                   <p className="font-semibold text-foreground mb-1">LinkedIn</p>
                   <a
-                    href="https://linkedin.com"
+                    href="https://www.linkedin.com/in/miguel-fokone-619b772a7"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:text-primary transition-colors"
                   >
-                    linkedin.com/in/miguelevelin
+                    linkedin.com/in/miguel-fokone-619b772a7
                   </a>
                 </div>
                 <div>
                   <p className="font-semibold text-foreground mb-1">GitHub</p>
                   <a
-                    href="https://github.com"
+                    href="https://github.com/FokoneMiguel"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:text-primary transition-colors"
                   >
-                    github.com/miguelevelin
+                    github.com/FokoneMiguel
                   </a>
                 </div>
               </div>
